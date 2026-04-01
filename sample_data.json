@@ -1,0 +1,10 @@
+{
+  "user_1": {
+    "bill": {
+      "base_plan": 800,
+      "extra_data": 200,
+      "tax": 200,
+      "total": 1200
+    }
+  }
+}
